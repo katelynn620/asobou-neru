@@ -38,12 +38,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🎮
         subtitle: 一位手殘黨的蝦機巴亂講
         avatar:
-            enabled: false
-            local: true
-            src: img/avatar.png
+            enabled: true
+            local: false
+            src: /img/avatar.png
 
     article:
         math: false
@@ -157,7 +157,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
