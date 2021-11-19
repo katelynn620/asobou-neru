@@ -1,0 +1,5 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+$mark-warning: #f5deb3;
+.article-content mark {
+    background: linear-gradient(transparent 40%, rgba(255,255,255,0) 50%,  $mark-warning  75%, $mark-warning 90%, transparent 95%);
+}
