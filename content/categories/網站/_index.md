@@ -2,8 +2,8 @@
 title: "網站"
 description: "關於網站的相關心得都會在這裡"
 slug: "website"
-image: ""
+image: "lukas-blazek-GnvurwJsKaY-unsplash.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#e38f46"
     color: "#fff"
 ---
