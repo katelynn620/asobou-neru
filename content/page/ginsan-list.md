@@ -6,12 +6,12 @@ image:
 slug: ginsan-list
 license: 
 hidden: true
-comments: true
+comments: false
 ---
 
 ## PlayStation
 * God of War™ III Remastered
-* Batman: Arkham Knight
+* ~~Batman: Arkham Knight~~ 沒有中文暫時不考慮
 * The Last Of Us™ Remastered
 * ONINAKI
 * Darksiders III

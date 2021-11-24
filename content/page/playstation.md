@@ -91,7 +91,6 @@ comments: false
 | Heavy Rain™                                                          | 暴雨殺機                                       | 數位版     |     |
 | METAL GEAR SOLID V: THE PHANTOM PAIN                                 | 潛龍諜影V 幻痛                                   | 光碟版(外借) | N   |
 | 箱庭公司創造記                                                              | 箱庭公司創造記                                    | 數位版     |     |
-| Batman: Arkham Knight                                                | 蝙蝠俠：阿卡漢騎士                                  | PS Plus |     |
 | God of War™ III Remastered                                           | 戰神III重製版                                   | PS Plus |     |
 | .hack//Ｇ.Ｕ. Last Recode                                              | 駭客時空：最後的記錄                                 | 數位版     |     |
 | 蘇菲的鍊金工房～不可思議書的鍊金術士～                                                  | 蘇菲的鍊金工房～不可思議書的鍊金術士～                        | 數位版     | Y   |
