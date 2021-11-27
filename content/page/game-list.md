@@ -17,7 +17,4 @@ menu:
 - [PlayStation](/ps-games)
 - [Steam](/steam-games)
 - [Switch](/switch-games)
-- <span style="color:#cccccc">XBox</span>
-- <span style="color:#cccccc">GOG</span>
-- <span style="color:#cccccc">Ubisoft Connect</span>
-- <span style="color:#cccccc">Origin</span>
+- [Others(GOG/Ubisoft Connect/EA Origin/XBox)](/other-platforms)
