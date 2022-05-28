@@ -116,15 +116,15 @@ params:
             emitMetadata: 0
 
         gitalk:
-            owner: 
-            admin:  
-            repo: 
-            clientID: 
-            clientSecret: 
-        
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
         cusdis:
-            host: 
-            id: 
+            host:
+            id:
 
     widgets:
         enabled:
@@ -176,16 +176,15 @@ menu:
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-            #   newTab: true
+              #   newTab: true
               icon: home
-    
+
     social:
-            
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/AsobouNeru
           params:
-            icon: brand-twitter
+              icon: brand-twitter
 
 related:
     includeNewer: true
@@ -209,3 +208,6 @@ markup:
         startLevel: 2
     highlight:
         noClasses: false
+frontmatter:
+    lastmod:
+        - lastmod
